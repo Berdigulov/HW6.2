@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW6.2</string>
+    <string name="Pick">Выбор фотографий</string>
+    <string name="recycler">Recycler</string>
+    <string name="select">Select</string>
+    <string name="image">Image</string>
+</resources>
